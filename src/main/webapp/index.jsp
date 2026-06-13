@@ -7,5 +7,6 @@
 <body>
     <h1>Hello from Lab2</h1>
     <p>Welcome to the Lab2 web application!</p>
+    <p>Current date and time: <%= new java.util.Date() %></p>
 </body>
 </html>
