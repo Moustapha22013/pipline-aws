@@ -9,6 +9,6 @@
     <p>Welcome to the Lab2 web application!</p>
     <p>Current date and time: <%= new java.util.Date() %></p>
     <p>moustapha and med baba</p>
-<p>moustapha and med baba</p>
+
 </body>
 </html>
